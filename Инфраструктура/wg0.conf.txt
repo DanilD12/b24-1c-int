@@ -1,0 +1,8 @@
+[Interface]
+PrivateKey = EEyeZHg2IkOeqSHA1jexTZdUrymaplqiEuFojbxuhG0=
+Address = 10.10.0.1/24
+ListenPort = 51820
+
+[Peer]
+PublicKey = Fx6cHyeLgOU3xWciO3WV+DVu9nhnuvsRUG8CWci2dD8=
+AllowedIPs = 10.10.0.2/32
